@@ -1,0 +1,17 @@
+{
+"companyName": "VIT-GTUD",
+"productName": "Capture the stras",
+"productVersion": "0.1",
+"dataUrl": "Capture the stras.data.unityweb",
+"wasmCodeUrl": "Capture the stras.wasm.code.unityweb",
+"wasmFrameworkUrl": "Capture the stras.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Capture the stras.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
